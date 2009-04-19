@@ -3,8 +3,10 @@
 ## Intro
 
 The Amazon [apitools](http://developer.amazonwebservices.com/connect/entry.jspa?externalID=351&categoryID=88) and 
-[amitools](http://developer.amazonwebservices.com/connect/entry.jspa?externalID=368) packages are Java commandline
-tools for managing EC2. The ec2-sources are the Amazon-tweaked Xen sources. Use this overlay to install using Gentoo's `layman`.
+[amitools](http://developer.amazonwebservices.com/connect/entry.jspa?externalID=368) packages are commandline
+tools for managing EC2. The ec2-sources are the Amazon-tweaked Xen sources.  
+Requirements: Ruby, Java.  
+Use this overlay to install using Gentoo's `layman`.
 
 ## Installation
 
