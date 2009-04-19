@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<layman>
+  <overlay
+     type = "git"
+     src = "git://github.com/thomasn/portage-ec2.git"
+     name = "portage-ec2"
+     status = "unofficial"
+     contact = "nichols7@gmail.com">
+ 
+    <link>
+      http://www.nexus10.com/
+    </link>
+ 
+    <description>
+      Amazon EC2 AMI and API tools as a Portage overlay usable with layman.
+      Fork of overlay from Tim Dysinger (dysinger), adding overlay.xml with thanks to Joshua Rich (joshuar).
+    </description>
+  </overlay>
+</layman>
+ 
